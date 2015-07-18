@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author nithin
+ *
+ */
+package nithin;
+x = 5 y  = 10
+x + y =

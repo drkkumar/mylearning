@@ -20,7 +20,7 @@ public class TwoDimArray {
 				System.out.print(TwoDim[i][j] + " ");
 				
 			}
-			System.out.println();
+			System.out.println("This is two dim array");
 	}
 	}
 }

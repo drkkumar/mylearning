@@ -8,8 +8,6 @@ public class ExampleDoWhile {
 			System.out.println("x = " +x );
 			x--;
 		}while( x > 0);
-			
-
 	}
 
 }

@@ -11,7 +11,7 @@ public class MyFirstClass {
 		int x = 10;
 		int y = 3;
 		int result = x % y;
-		System.out.println("The result: "+result);
+		System.out.println("Mod  result of x and y: "+result);
 
 	}
 

@@ -18,7 +18,7 @@ public class ExampleSwitchCase {
 			System.out.println("Value is 3");
 			break;
 		default:
-			System.out.println("No Value");
+			System.out.println("No Value is default");
 			break;
 		}
 
